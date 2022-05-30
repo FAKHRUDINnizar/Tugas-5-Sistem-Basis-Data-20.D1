@@ -19,7 +19,15 @@
 
 ![image](https://user-images.githubusercontent.com/74331125/170974232-6a4f89c6-6af0-4d44-be70-2a11ae509a78.png)
 
-### 3. Sebuah Database Dari Pasien 
+### 3. Sebuah Database Dari User Pasien
+
+![image](https://user-images.githubusercontent.com/74331125/170976654-c20db176-d1fc-467e-8bdb-5b053b90dc91.png)
+
+- Output nya :
+
+![image](https://user-images.githubusercontent.com/74331125/170976718-1b982d55-fdfc-48f4-baca-96aa7f39705f.png)
+
+### 4. Sebuah Database Dari Pasien 
 
 ![image](https://user-images.githubusercontent.com/74331125/170974502-9e300ac5-aa0e-43b4-8c58-08df238ac86e.png)
 
@@ -27,7 +35,7 @@
 
 ![image](https://user-images.githubusercontent.com/74331125/170974587-a88b81ff-a2a0-4698-a039-3506908b3e04.png)
 
-### 4. Sebuah Database Dari Dokter
+### 5. Sebuah Database Dari Dokter
 
 ![image](https://user-images.githubusercontent.com/74331125/170974834-b737daa2-0915-452f-b060-81dd4b22122c.png)
 
@@ -35,7 +43,7 @@
 
 ![image](https://user-images.githubusercontent.com/74331125/170974913-b795f50e-fe0f-4533-b0d9-912bcf65cba6.png)
 
-### 5. Sebuah Database Dari Berobat
+### 6. Sebuah Database Dari Berobat
 
 ![image](https://user-images.githubusercontent.com/74331125/170975377-25c10349-7c64-4dab-83e7-60f133135eec.png)
 
@@ -43,7 +51,7 @@
 
 ![image](https://user-images.githubusercontent.com/74331125/170975408-3ff7bbf5-04f3-447d-b1ea-092552d09cbb.png)
 
-### 6. Sebuah Database Dari Resep Obat 
+### 7. Sebuah Database Dari Resep Obat 
 
 ![image](https://user-images.githubusercontent.com/74331125/170975501-7f104ba8-8163-43e0-83d9-3a30d1a941b1.png)
 
@@ -51,7 +59,7 @@
 
 ![image](https://user-images.githubusercontent.com/74331125/170975544-096a2294-cb15-4dfb-bce7-7f152f239a42.png)
 
-### 7. Sebuah Database Dari Obat 
+### 8. Sebuah Database Dari Obat 
 
 ![image](https://user-images.githubusercontent.com/74331125/170975635-0cce5e10-1aa9-463e-8425-4be2738ea9b6.png)
 
